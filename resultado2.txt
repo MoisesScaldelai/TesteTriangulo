@@ -1,1 +1,18 @@
+@MoisesScaldelai➜ /workspaces/TesteTriangulo (main) $ pytest -v
+=========================================================== test session starts ============================================================
+platform linux -- Python 3.12.1, pytest-9.0.1, pluggy-1.6.0 -- /usr/local/py-utils/venvs/pytest/bin/python
+cachedir: .pytest_cache
+rootdir: /workspaces/TesteTriangulo
+plugins: anyio-4.11.0
+collected 8 items                                                                                                                          
 
+test_triangulo.py::test1 PASSED                                                                                                      [ 12%]
+test_triangulo.py::test2 PASSED                                                                                                      [ 25%]
+test_triangulo.py::test3 PASSED                                                                                                      [ 37%]
+test_triangulo.py::test4 PASSED                                                                                                      [ 50%]
+test_triangulo.py::test5 PASSED                                                                                                      [ 62%]
+test_triangulo.py::test6 PASSED                                                                                                      [ 75%]
+test_triangulo.py::test7 PASSED                                                                                                      [ 87%]
+test_triangulo.py::test8 PASSED                                                                                                      [100%]
+
+============================================================ 8 passed in 0.02s =============================================================
