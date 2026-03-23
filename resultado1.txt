@@ -1,4 +1,4 @@
-@MoisesScaldelai ➜/workspaces/TesteTriangulo (main) $ pytest -v
+@MoisesScaldelai ➜ /workspaces/TesteTriangulo (main) $ pytest -v
 =========================================================== test session starts ============================================================
 platform linux -- Python 3.12.1, pytest-9.0.1, pluggy-1.6.0 -- /usr/local/py-utils/venvs/pytest/bin/python
 cachedir: .pytest_cache
